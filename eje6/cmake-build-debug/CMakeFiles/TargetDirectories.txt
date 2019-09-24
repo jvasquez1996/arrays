@@ -1,0 +1,3 @@
+/home/utec/jvasqeuzd/semana6/eje6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utec/jvasqeuzd/semana6/eje6/cmake-build-debug/CMakeFiles/eje6.dir
+/home/utec/jvasqeuzd/semana6/eje6/cmake-build-debug/CMakeFiles/edit_cache.dir
